@@ -1,0 +1,23 @@
+{
+  "name": "creatives-around-mobile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicsolitom/creatives-around-mobile.git"
+  },
+  "author": "John Snow <js@thenorthremember.me> (http://johnsnow.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicsolitom/creatives-around-mobile/issues"
+  },
+  "homepage": "https://github.com/nicsolitom/creatives-around-mobile#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}

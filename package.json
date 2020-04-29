@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/nicsolitom/creatives-around-mobile#readme",
   "dependencies": {
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^2.2.0",
+    "sass": "^1.26.5"
   }
 }

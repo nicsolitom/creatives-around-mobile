@@ -5,7 +5,12 @@
 }
 
 body {
-    background-image: url("http://androidcentral.us/wp-content/uploads/2014/06/low-poly-texture-18.png?541271");
+    // background-image: url("http://androidcentral.us/wp-content/uploads/2014/06/low-poly-texture-18.png?541271");
+    background-image:
+        url("./images/darker-universe-1784292_1920.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
 }
 
 .iphone {

@@ -1,5 +1,7 @@
 <br/> ![Screenshot](ca_redpurplelogo.png) <br/> <br/> <br/>
 
+<img src="/1626089759147.jpg" alt="">
+
 Creatives Around location-based social platform for visual artists.
 
 The idea of the app is to connect with other visual artists that are in your area.
